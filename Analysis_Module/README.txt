@@ -1,1 +1,4 @@
-Plaso DB의 데이터를 이용하여 블라블라
+Input: Plaso Database(from psort)
+psort argument: -o 4n6time_sqlite -w %output% %Input%
+result: Integrated Dashcam Database
+paper: not yet published
