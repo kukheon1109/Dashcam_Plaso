@@ -1,6 +1,6 @@
 ## Plaso for dashcam(Proto type)
 
-*대시캠에 대한 메타데이터 분석 지원
+*Metadata analysis support for Dash Cam
 
 ## Preprocessing_Module(based on plaso)
 
